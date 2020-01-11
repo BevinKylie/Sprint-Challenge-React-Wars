@@ -1,5 +1,5 @@
 import React from 'react';
-import CharacterCard from './components/CharacterCard/CharacterCard.js/CharacterCard';
+import CharacterCard from './components/CharacterCard/CharacterCard.js';
 import './App.css';
 
 const App = () => {
