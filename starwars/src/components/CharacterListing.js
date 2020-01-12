@@ -15,10 +15,11 @@ const StyledSection = styled.section`
 display: inline-block;
 padding: 3rem;
 background: gray;
-width: 100px;
+width: 400px;
 height: auto;
 margin-bottom: 20px;
-border: 2px dashed white;
+padding: 15px;
+border: 1px dashed white;
 `;
 
 // headers h1 - h6
