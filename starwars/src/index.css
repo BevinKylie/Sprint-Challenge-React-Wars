@@ -1,7 +1,19 @@
 body {
   margin: 0;
-  padding: 0;
+  padding: 15px;
   font-family: sans-serif;
-  background-image: url('./sw-bg.jpg');
+  width: 100%;
+  font-size: 62.5%;
+  background-color: #231f20;
+  background-image: url("./sw-bg.jpg");
   background-size: cover;
+  border-radius: 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
